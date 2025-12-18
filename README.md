@@ -1,4 +1,4 @@
-1. Project Title / Headlin                                                                                                                                               Sales Analysis Dashboard – DAX, Power Query & Data Visualization                                                                                                        2.Short Description / Purpose                                                                                                                                              This project focuses on analyzing automobile sales data using Power BI to gain meaningful business insights.
+   This project focuses on analyzing automobile sales data using Power BI to gain meaningful business insights.
 The objective is to understand sales performance across brands, regions, time periods, and product categories by applying DAX calculations, Power Query transformations, and interactive visualizations.
 
 The dashboard helps stakeholders:
@@ -9,8 +9,7 @@ Compare performance across regions and brands
 
 Identify top-performing products
 
-Support data-driven decision making                                                                                                                                                                                                                                                                                                               3. Tech Stack
-
+Support data-driven decision making                                                                                                                                                                                                                                                                                                          3. Tech Stack
 Power BI Desktop
 
 DAX (Data Analysis Expressions)
@@ -21,7 +20,8 @@ Excel (Data Source)
 
 Data Modeling
 
-Data Visualization                                                                                                                                                                                                                                                                                                                          4. Project Structure (Optional but Recommended)
+Data Visualization
+                                                                                                                                                                                                       
 Automobile-Dashboard-Analysis
 │
 ├── Task-1_DAX-Calculations
@@ -39,7 +39,8 @@ Automobile-Dashboard-Analysis
 ├── Dashboard
 │   └── Automobile_Sales_Dashboard.pbix
 │
-└── README.md                                                                                                                                                                    Future Scope (Short Version)
+└── README.md
+Future Scope (Short Version)
 
 Add sales forecasting using time-series analysis
 
@@ -49,4 +50,4 @@ Connect real-time data sources for live reporting
 
 Create mobile-friendly dashboards
 
-Introduce advanced KPIs for management-level insights                                                                                                                                                                                                                
+Introduce advanced KPIs for management-level insights
